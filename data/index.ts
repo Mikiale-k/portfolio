@@ -72,9 +72,10 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "./p1.svg",
+    title:
+      "Store-It App: A versatile app to securely store and organize anything you need, anytime.",
+    des: "Store-It App: A simple and secure solution to store and organize anything effortlessly.Keep your items, notes, or data accessible anytime, anywhere.",
+    img: "./pppp.png",
     iconLists: [
       "./re.svg",
       "./tail.svg",
